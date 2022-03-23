@@ -1,6 +1,5 @@
 const express = require('express')
 const app = express()
-const playerData = require('./manutd.json')
 
 const port = 3000
 
